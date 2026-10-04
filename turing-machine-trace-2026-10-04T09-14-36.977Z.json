@@ -1,0 +1,22 @@
+{
+  "project": "Turing Machine Simulator and Visualizer",
+  "example": "Factory Parcel Sorter",
+  "input": "SPSP",
+  "output": null,
+  "status": "ready",
+  "transitionsExecuted": 1,
+  "passesCompleted": 0,
+  "adjacentSwaps": 0,
+  "transitions": [
+    {
+      "step": 1,
+      "fromState": "q0",
+      "state": "q0",
+      "read": "⊢",
+      "nextState": "q_scan0",
+      "write": "⊢",
+      "move": "R",
+      "swapPhase": null
+    }
+  ]
+}
